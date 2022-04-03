@@ -1,0 +1,248 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": "AFFOGATO",
+      "ingredients": [
+        "coffee",
+        "water",
+        "vanilla",
+        "ice cream vanilla",
+        "mint chocolate",
+        "fresh mint leaves"
+      ],
+      "description": "Espresso poured on a vanilla ice cream. Served in a cappuccino cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 10,
+      "price": 250
+    },
+    {
+      "id": 2,
+      "name": "ESPRESSO AMERICANO",
+      "ingredients": ["coffee beans", "hot water", "milk", "chocolate topping"],
+      "description": "Espresso with added hot water. Often served in a cappuccino cup. The espresso is added into the hot water rather than all the water being flowed.",
+      "image": "./src/images/new.jpg",
+      "coffein": 30,
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "CAFFÈ LATTE",
+      "ingredients": ["coffee", "steamed milk", "water", "syrup"],
+      "description": "A tall, mild 'milk coffee'. An espresso with steamed milk and only a little milk foam poured over it. Serve in a latte glass or a coffee cup. Flavoured syrup can be added.",
+      "image": "./src/images/new.jpg",
+      "coffein": 15,
+      "price": 330
+    },
+    {
+      "id": 4,
+      "name": "CAFFÈ MOCHA",
+      "ingredients": [
+        "coffee",
+        "water",
+        "chocholate",
+        "whipped cream",
+        "chocolate sauce"
+      ],
+      "description": "A caffè latte with chocolate and whipped cream, made by pouring about 2 cl of chocolate sauce into the glass, followed by an espresso shot and steamed milk.",
+      "image": "./src/images/new.jpg",
+      "coffein": 25,
+      "price": 440
+    },
+    {
+      "id": 5,
+      "name": "CAFÈ AU LAIT",
+      "ingredients": ["dark filter coffee", "warm milk", "water"],
+      "description": "French morning coffee. Made by mixing dark roasted filter coffee (often prepared with French Press) and warm milk. Served in a bowl or a large coffee cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 41.4,
+      "price": 140
+    },
+    {
+      "id": 6,
+      "name": "CAPPUCCINO",
+      "ingredients": ["espresso", "milk foam", "cream", "cinnamon"],
+      "description": "A coffee drink consisting of espresso and a milk foam mixture (drink size about 160–240 ml). Served in a cappuccino cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 10.98,
+      "price": 170
+    },
+    {
+      "id": 7,
+      "name": "COLD BREW COFFEE",
+      "ingredients": [
+        "Paulig Cold Brew Concentrate",
+        "cranberry juice",
+        "sparkling water",
+        "syrup",
+        "lemon wedges"
+      ],
+      "description": "Cold Brew Coffee is a smooth, cold beverage prepared by brewing freshly ground coffee in cold water. In the Cold Brew process, time makes up for heat.",
+      "image": "./src/images/new.jpg",
+      "coffein": 19.16,
+      "price": 270
+    },
+    {
+      "id": 8,
+      "name": "DOUBLE ESPRESSO",
+      "ingredients": ["coffee", "water", "milk", "whipped cream"],
+      "description": "Double portion of espresso in a cappuccino/espresso cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 29.111,
+      "price": 110
+    },
+    {
+      "id": 9,
+      "name": "ESPRESSO",
+      "ingredients": ["coffee", "water", "cream"],
+      "description": "A short, strong drink (about 30 ml) served in an espresso cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 35,
+      "price": 90
+    },
+    {
+      "id": 10,
+      "name": "ESPRESSO CON PANNA",
+      "ingredients": [
+        "coffee",
+        "whipped cream",
+        "water",
+        "warm milk",
+        "topping"
+      ],
+      "description": "A shot of espresso topped with whipped cream. Served in an espresso cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 11.9,
+      "price": 210
+    },
+    {
+      "id": 11,
+      "name": "ESPRESSO MACCHIATO",
+      "ingredients": ["coffee", "little milk foam", "water"],
+      "description": "Espresso with a little milk foam (drink size about 50 ml). Served in an espresso cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 20.4,
+      "price": 320
+    },
+    {
+      "id": 12,
+      "name": "FLAT WHITE",
+      "ingredients": ["coffee", "lightly frosted milk", "water"],
+      "description": "A coffee drink with a double espresso and lightly frosted milk (About 150–240 ml). Served in a glass.",
+      "image": "./src/images/new.jpg",
+      "coffein": 44.9,
+      "price": 500
+    },
+    {
+      "id": 13,
+      "name": "FRAPPÉ",
+      "ingredients": ["espresso", "milk", "ice", "flavoured syrup"],
+      "description": "Rich iced coffee made of espresso, milk and ice. Flavoured syrup can be added (about 300 ml). Mixed in a blender and served for example in a latte glass.",
+      "image": "./src/images/new.jpg",
+      "coffein": 16.9,
+      "price": 430
+    },
+    {
+      "id": 14,
+      "name": "FREAKSHAKE",
+      "ingredients": ["cold brew coffee", "topping", "fruits"],
+      "description": "Basically anything that is blended/mixed/stirred and served with various topping that are very 'instagrammable'. Coffee Freakshakes are often made with cold brew coffee.",
+      "image": "./src/images/new.jpg",
+      "coffein": 19.5,
+      "price": 530
+    },
+    {
+      "id": 15,
+      "name": "ICED LATTE",
+      "ingredients": ["paulig espresso", "milk", "flavoured syrup", "ice"],
+      "description": "Ice, cold milk and an espresso in a latte glass (about 300 ml), often mixed with some sugar or flavoured syrup. Served in a latte glass.",
+      "image": "./src/images/new.jpg",
+      "coffein": 10.5,
+      "price": 300
+    },
+    {
+      "id": 16,
+      "name": "ICED MOCHA",
+      "ingredients": ["caffè mocha", "ice", "topping"],
+      "description": "Cold Caffè mocha. Prepared like iced latte, but garnished and flavoured like caffè mocha (about 300 ml). Served in a latte glass.",
+      "image": "./src/images/new.jpg",
+      "coffein": 9.3,
+      "price": 310
+    },
+    {
+      "id": 17,
+      "name": "IRISH COFFEE",
+      "ingredients": ["brewed coffee", "Irish whiskey", "syrup", "sugar"],
+      "description": "Classic coffee coctail where Irish whiskey is mixed with filter coffee and topped with thin layer of gently whipped cream.",
+      "image": "./src/images/new.jpg",
+      "coffein": 11.3,
+      "price": 310
+    },
+    {
+      "id": 18,
+      "name": "LATTE MACCHIATO",
+      "ingredients": ["espresso", "milk", "milk foam"],
+      "description": "Like a traditional caffè latte, but with a thicker layer of foam. Often made by pouring an espresso last into the milk (drink size about 300 ml). Served in a latte glass.",
+      "image": "./src/images/new.jpg",
+      "coffein": 16.3,
+      "price": 210
+    },
+    {
+      "id": 19,
+      "name": "LUNGO",
+      "ingredients": ["coffee", "milk foam", "hot water"],
+      "description": "An espresso pulled long (50–60 ml). Served in an espresso/cappuccino cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 10.3,
+      "price": 179
+    },
+    {
+      "id": 20,
+      "name": "RISTRETTO",
+      "ingredients": ["coffee", "milk foam", "hot water"],
+      "description": "A very short shot of espresso (about 20 ml). Served in an espresso cup.",
+      "image": "./src/images/new.jpg",
+      "coffein": 16,
+      "price": 298
+    }
+  ],
+  "cockies": [
+    {
+      "id": 1,
+      "name": "Oreo",
+      "price": 45
+    },
+    {
+      "id": 2,
+      "name": "Jaffa",
+      "price": 59
+    },
+    {
+      "id": 3,
+      "name": "Raffaelo",
+      "price": 86
+    },
+    {
+      "id": 4,
+      "name": "Ferrero",
+      "price": 100
+    }
+  ],
+  "toppings": [
+    {
+      "id": 1,
+      "name": "cream",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "name": "chocolate",
+      "price": 60
+    },
+    {
+      "id": 3,
+      "name": "syrup",
+      "price": 30
+    }
+  ]
+}
